@@ -1,0 +1,28 @@
+@import "../src/Assets/styles/header.css";
+@import "../src/Assets/styles/home.css";
+@import "../src/Assets/styles/services.css";
+@import "../src/Assets/styles/about.css";
+@import "../src/Assets/styles/price.css";
+@import "../src/Assets/styles/acardion.css";
+@import "../src/Assets/styles/portfolio.css";
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.container{
+  margin: 0 auto;
+  width: 95%;
+}
+button{
+  border: none;
+  color: white;
+}
+body{
+  background: #000000;
+}

@@ -1,0 +1,62 @@
+.portfolio-teg{
+	margin-top: 150px;
+color: white;
+}
+.portfolio-teg h1 {
+	color: rgba(255, 255, 255, 0.475);
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.portfolio-teg h1 span{
+	color: white;
+}
+.portfolio-teg h2{
+font-size: 80px;
+color: rgba(255, 255, 255, 0.301);
+position: relative;
+margin-bottom: -30px;
+
+}
+.portfolio-teg h2 span{
+	font-size: 18px;
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 5px;
+}
+.realise-projects-line-1{
+	width: 1px;
+	height: 280px;
+	background: #ffffff61;
+}
+.realise-projects{
+	display: flex;
+	align-items: center;
+	gap: 200px;
+	/* margin-right: 20px; */
+}
+.realise-project{
+	display: flex;
+	align-items: end;
+	justify-content: space-between;
+}
+
+.launched{
+	display: flex;
+	justify-content: start;
+	position: relative;
+}
+.launched h1{
+	font-size: 120px;
+	color: white;
+	position: absolute;
+	margin-top: -160px;
+margin-left: -130px;
+}
+.launched h1 span{
+	font-size: 50px;
+	position: absolute;
+margin-left: 130px;
+margin-bottom: 60px;
+}
+
