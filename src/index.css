@@ -12,25 +12,7 @@ code {
 		monospace;
 }
 
-.css-r9u03x-MuiPaper-root-MuiAccordion-root:first-of-type {
-	border-top-left-radius: 30px !important;
-	border-top-right-radius: 30px !important;
-}
-.css-r9u03x-MuiPaper-root-MuiAccordion-root:last-of-type {
-	border-bottom-left-radius: 30px !important;
-	border-bottom-right-radius: 30px !important;
-}
-.css-r9u03x-MuiPaper-root-MuiAccordion-root {
-	background-color: #000000 !important;
-  border: 0.2px  solid white !important;
-	color: rgba(255, 255, 255, 0.87) !important;
-}
-.css-i4bv87-MuiSvgIcon-root { 
-  color: white
-}
-.css-r9u03x-MuiPaper-root-MuiAccordion-root {
-	border-radius: 30px !important
-}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

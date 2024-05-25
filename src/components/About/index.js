@@ -9,8 +9,6 @@ import { SiGmail } from 'react-icons/si'
 import me from '../../Assets/img/photo-me.jpg'
 
 
-// import React from 'react' {useState } from 'react'
-// Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react'
 
 import 'swiper/css'
@@ -21,7 +19,6 @@ import 'swiper/css/effect-cards'
 import { EffectCards } from 'swiper/modules'
 
 
-import { EffectCoverflow, Pagination } from 'swiper/modules'
 const style = {
 	position: 'absolute',
 	top: '50%',
