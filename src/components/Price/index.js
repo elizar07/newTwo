@@ -16,9 +16,8 @@ const Price = () => {
 					<div className='price-text'>
 						<h2>Тарифы</h2>
 						<p>
-							Lorem ipsum dolor sit amet consectetur adipisicing <br />
-							elit. Qui reprehenderitmollitia amet asperiores culpa <br />
-							molestiae facilis quam, nobis labore temporibus{' '}
+							Окончательная стоимость и сроки <br />выполнения работ определяются <br />
+							после проведения подробного обсуждения.
 						</p>
 					</div>
 				</div>
@@ -40,12 +39,14 @@ const Price = () => {
 							</span>
 						</h3>
 					</div>
-		
-					 <div className='table'>
+
+					<div className='table'>
 						<h1>Многостраничный сайт</h1>
 						<p>
-							Корпоративный сайт,    сайт <br />от двух и более страниц</p>
-							<h2>
+							Корпоративный сайт, сайт <br />
+							от двух и более страниц
+						</p>
+						<h2>
 							<span>от</span> 5000с
 						</h2>
 						<h3>

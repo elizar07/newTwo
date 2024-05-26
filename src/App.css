@@ -5,6 +5,7 @@
 @import "../src/Assets/styles/price.css";
 @import "../src/Assets/styles/acardion.css";
 @import "../src/Assets/styles/portfolio.css";
+@import "../src/Assets/styles/contact.css";
 *{
   margin: 0;
   padding: 0;
